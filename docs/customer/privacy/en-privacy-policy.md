@@ -7,7 +7,7 @@ Treet, www.treet-app.com ("we" or "the App") is the controller of the personal d
 ## 2. What we use your data for (purposes and legal basis)
 We process your email (and the minimum technical data) to:
 1. **Create and verify your account**: send verification code by email. 
-  - **Legal basis**: performance of the contract (Art. 6.1.b GDPR).
+   - **Legal basis**: performance of the contract (Art. 6.1.b GDPR).
 2. **Allow the use of the App**: sign up for loyalty programs, redeem promotions, count uses. 
    - **Legal basis**: execution of the contract.
 3. **Maintain the security of the service**: fraud prevention, technical records, access logs, IP. 
