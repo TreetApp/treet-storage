@@ -1,1 +1,14 @@
-[{"version":"2026.04.13.1403","channel":"staging","zipUrl":"https://treetapp.github.io/treet-storage/customer-frontend/2026.04.13.1403.zip","date":"2026-04-13T14:03:17Z"}]
+[
+  {
+    "version": "2026.04.13.1403",
+    "channel": "staging",
+    "zipUrl": "https://treetapp.github.io/treet-storage/customer-frontend/2026.04.13.1403.zip",
+    "date": "2026-04-13T14:03:17Z"
+  },
+  {
+    "version": "2026.04.13.1413",
+    "channel": "staging",
+    "zipUrl": "https://treetapp.github.io/treet-storage/customer-frontend/2026.04.13.1413.zip",
+    "date": "2026-04-13T14:13:33Z"
+  }
+]
