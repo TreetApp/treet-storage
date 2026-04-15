@@ -10,5 +10,11 @@
     "channel": "staging",
     "zipUrl": "https://treetapp.github.io/treet-storage/merchant-frontend/2026.04.13.1750.zip",
     "date": "2026-04-13T17:50:20Z"
+  },
+  {
+    "version": "2026.04.15.1920",
+    "channel": "staging",
+    "zipUrl": "https://treetapp.github.io/treet-storage/merchant-frontend/2026.04.15.1920.zip",
+    "date": "2026-04-15T19:20:54Z"
   }
 ]
