@@ -22,5 +22,11 @@
     "channel": "staging",
     "zipUrl": "https://treetapp.github.io/treet-storage/customer-frontend/2026.04.13.1750.zip",
     "date": "2026-04-13T17:50:35Z"
+  },
+  {
+    "version": "2026.04.15.1921",
+    "channel": "staging",
+    "zipUrl": "https://treetapp.github.io/treet-storage/customer-frontend/2026.04.15.1921.zip",
+    "date": "2026-04-15T19:21:08Z"
   }
 ]
