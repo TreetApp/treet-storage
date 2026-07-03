@@ -10,5 +10,11 @@
     "channel": "production",
     "platform": "android",
     "date": "2026-07-01T22:04:51Z"
+  },
+  {
+    "version": "1.1.2",
+    "channel": "staging",
+    "platform": "android",
+    "date": "2026-07-03T09:36:51Z"
   }
 ]
