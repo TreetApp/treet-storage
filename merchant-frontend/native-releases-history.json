@@ -112,5 +112,17 @@
     "channel": "staging",
     "platform": "android",
     "date": "2026-08-11T19:43:05Z"
+  },
+  {
+    "version": "2.0.0",
+    "channel": "staging",
+    "platform": "ios",
+    "date": "2026-08-11T20:10:15Z"
+  },
+  {
+    "version": "2.0.0",
+    "channel": "staging",
+    "platform": "android",
+    "date": "2026-08-11T20:10:15Z"
   }
 ]
