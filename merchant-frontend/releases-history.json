@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "version": "2.0.4.1",
+    "channel": "production",
+    "zipUrl": "https://treetapp.github.io/treet-storage/merchant-frontend/2.0.4.1.zip",
+    "minNativeVersion": "2.0.4",
+    "date": "2026-09-12T23:50:29Z"
+  }
+]
