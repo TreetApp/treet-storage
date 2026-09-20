@@ -334,5 +334,11 @@
     "channel": "staging",
     "platform": "ios",
     "date": "2026-09-20T11:23:29Z"
+  },
+  {
+    "version": "2.0.6",
+    "channel": "staging",
+    "platform": "android",
+    "date": "2026-09-20T11:29:46Z"
   }
 ]
