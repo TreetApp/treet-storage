@@ -472,5 +472,17 @@
     "channel": "staging",
     "platform": "android",
     "date": "2026-11-21T13:51:40Z"
+  },
+  {
+    "version": "3.4.0",
+    "channel": "staging",
+    "platform": "ios",
+    "date": "2026-11-22T10:53:51Z"
+  },
+  {
+    "version": "3.4.0",
+    "channel": "staging",
+    "platform": "android",
+    "date": "2026-11-22T10:53:51Z"
   }
 ]
